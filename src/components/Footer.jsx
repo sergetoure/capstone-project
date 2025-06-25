@@ -1,7 +1,7 @@
 export const Footer = () => {
   return (
     <>
-      <footer>
+      <footer className="footer">
         <p>Footer content goes here</p>
       </footer>
     </>
