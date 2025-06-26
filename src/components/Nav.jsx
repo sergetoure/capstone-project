@@ -12,7 +12,7 @@ export const Nav = () => {
           Menu
         </a>
         <a href="#" className="menu__item">
-          Rservation
+          Reservation
         </a>
         <a href="#" className="menu__item">
           Order Online
