@@ -8,10 +8,10 @@ export const Main = () => {
         <section className="hero">
           <HStack>
             <article className="textBlock">
-              <Text textStyle="4xl" className="hero_title">
+              <Text textStyle="5xl" className="hero_title">
                 Little Lemon
               </Text>
-              <Text textStyle="xl" className="hero_subtitle">
+              <Text textStyle="3xl" className="hero_subtitle">
                 Chicago
               </Text>
 
